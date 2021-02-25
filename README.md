@@ -1,10 +1,1 @@
 # FoodOrderApp-With-SwiftUI
-
-
-
-
-
-
-
-
-
