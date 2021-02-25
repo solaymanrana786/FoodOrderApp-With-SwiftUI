@@ -11,6 +11,16 @@
 		2B3B329C25E8087900409A83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B329B25E8087900409A83 /* ContentView.swift */; };
 		2B3B329E25E8087D00409A83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B3B329D25E8087D00409A83 /* Assets.xcassets */; };
 		2B3B32A125E8087D00409A83 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B3B32A025E8087D00409A83 /* Preview Assets.xcassets */; };
+		2B3B32AA25E808D400409A83 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B32A925E808D400409A83 /* Order.swift */; };
+		2B3B32AD25E808EE00409A83 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B32AC25E808EE00409A83 /* Menu.swift */; };
+		2B3B32B025E8091000409A83 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B32AF25E8091000409A83 /* Helper.swift */; };
+		2B3B32B325E8094200409A83 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 2B3B32B225E8094200409A83 /* menu.json */; };
+		2B3B32B625E8124700409A83 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B32B525E8124700409A83 /* ItemRow.swift */; };
+		2B3B32B925E81DC100409A83 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B32B825E81DC100409A83 /* ItemDetail.swift */; };
+		2B3B32BC25E822E500409A83 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B32BB25E822E500409A83 /* OrderView.swift */; };
+		2B3B32BF25E8257100409A83 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B32BE25E8257100409A83 /* MainView.swift */; };
+		2B3B32C225E827C600409A83 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B3B32C125E827C600409A83 /* CheckoutView.swift */; };
+		2B3B32C525E83ECE00409A83 /* p1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2B3B32C425E83ECE00409A83 /* p1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +30,16 @@
 		2B3B329D25E8087D00409A83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B3B32A025E8087D00409A83 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2B3B32A225E8087D00409A83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B3B32A925E808D400409A83 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		2B3B32AC25E808EE00409A83 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		2B3B32AF25E8091000409A83 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		2B3B32B225E8094200409A83 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
+		2B3B32B525E8124700409A83 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		2B3B32B825E81DC100409A83 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		2B3B32BB25E822E500409A83 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		2B3B32BE25E8257100409A83 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		2B3B32C125E827C600409A83 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		2B3B32C425E83ECE00409A83 /* p1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,16 @@
 			children = (
 				2B3B329925E8087900409A83 /* Food_Order_App_with_SwiftUIApp.swift */,
 				2B3B329B25E8087900409A83 /* ContentView.swift */,
+				2B3B32B825E81DC100409A83 /* ItemDetail.swift */,
+				2B3B32BB25E822E500409A83 /* OrderView.swift */,
+				2B3B32BE25E8257100409A83 /* MainView.swift */,
+				2B3B32C125E827C600409A83 /* CheckoutView.swift */,
+				2B3B32B525E8124700409A83 /* ItemRow.swift */,
+				2B3B32A925E808D400409A83 /* Order.swift */,
+				2B3B32AC25E808EE00409A83 /* Menu.swift */,
+				2B3B32AF25E8091000409A83 /* Helper.swift */,
+				2B3B32C425E83ECE00409A83 /* p1.jpg */,
+				2B3B32B225E8094200409A83 /* menu.json */,
 				2B3B329D25E8087D00409A83 /* Assets.xcassets */,
 				2B3B32A225E8087D00409A83 /* Info.plist */,
 				2B3B329F25E8087D00409A83 /* Preview Content */,
@@ -126,7 +156,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B3B32B325E8094200409A83 /* menu.json in Resources */,
 				2B3B32A125E8087D00409A83 /* Preview Assets.xcassets in Resources */,
+				2B3B32C525E83ECE00409A83 /* p1.jpg in Resources */,
 				2B3B329E25E8087D00409A83 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,7 +170,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B3B32B925E81DC100409A83 /* ItemDetail.swift in Sources */,
+				2B3B32BF25E8257100409A83 /* MainView.swift in Sources */,
+				2B3B32C225E827C600409A83 /* CheckoutView.swift in Sources */,
+				2B3B32BC25E822E500409A83 /* OrderView.swift in Sources */,
+				2B3B32AA25E808D400409A83 /* Order.swift in Sources */,
 				2B3B329C25E8087900409A83 /* ContentView.swift in Sources */,
+				2B3B32B025E8091000409A83 /* Helper.swift in Sources */,
+				2B3B32B625E8124700409A83 /* ItemRow.swift in Sources */,
+				2B3B32AD25E808EE00409A83 /* Menu.swift in Sources */,
 				2B3B329A25E8087900409A83 /* Food_Order_App_with_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
